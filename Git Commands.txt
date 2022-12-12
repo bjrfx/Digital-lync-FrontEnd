@@ -10,5 +10,5 @@ To share our code from local system to repository:
 To commit  the repository
     git commit -m "First commit v1.1"
 
-To push the code to local system:
+To push the code to repository:
     git push
