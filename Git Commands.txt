@@ -1,0 +1,14 @@
+To get repository into local system:
+    git clone https://github.com/bjrfx/Digital-lync-FrontEnd.git
+
+To get the status:
+    git status
+
+To share our code from local system to repository:
+    git add .
+
+To commit  the repository
+    git commit -m "First commit v1.1"
+
+To push the code to local system:
+    git push
