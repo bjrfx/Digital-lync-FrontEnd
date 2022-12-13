@@ -12,3 +12,7 @@ To commit  the repository
 
 To push the code to repository:
     git push
+
+To bring the code to other local system:
+    git fetch
+    git pull
